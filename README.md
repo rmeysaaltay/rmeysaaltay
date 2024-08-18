@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rmeysaaltay
+- 👋 Hi, I’m Rumeysa Altay
 - 👀 I’m interested in android(kotlin-java;)
 - 🌱 I’m currently learning android
 - 📫 How to reach me altayrumeysa9@gmail.com
