@@ -2,7 +2,7 @@
 - 👀 I’m interested in android(kotlin-java;)
 - 🌱 I’m currently learning android
 - 📫 How to reach me altayrumeysa9@gmail.com
-- 🏫I'm a Computer Engineering student
+- 🏫I'm a computer engineering student
 
 
 <!---
