@@ -1,4 +1,3 @@
-<h1 align="center">Merhaba 👋, Ben Rumeysa Altay</h1>
 <h3 align="center">Bilgisayar Mühendisliği 4. Sınıf Öğrencisi | Görüntü İşleme, Edge AI & Yapay Zeka Ajanları</h3>
 
 <p align="center">
@@ -51,3 +50,8 @@
 <p>
   <a href="LINKEDIN_URL_BURAYA" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:altayrumeysa9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
