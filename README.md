@@ -2,7 +2,7 @@
 <h3 align="center">Bilgisayar Mühendisliği 4. Sınıf Öğrencisi | Görüntü İşleme, Edge AI & Yapay Zeka Ajanları</h3>
 
 <p align="center">
-  Gömülü sistemler (Raspberry Pi) üzerinde gerçek zamanlı çalışan görüntü işleme modellerinden, büyük dil modelleri (LLM) tabanlı otonom müşteri destek ajanlarına kadar uçtan uca yapay zeka çözümleri geliştiriyorum.
+  Gerçek zamanlı çalışan görüntü işleme modellerinden, büyük dil modelleri (LLM) tabanlı otonom müşteri destek ajanlarına kadar uçtan uca yapay zeka çözümleri geliştiriyorum.
 </p>
 
 ---
@@ -39,11 +39,11 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rmeysaaltay&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmeysaaltay&layout=compact&theme=tokyonight&hide_border=true&locale=tr" />
-</p>
+### 📌 Öne Çıkan Projeler
+
+* **🏥 Medikal Ultrason Görüntüleme & Tespit Uygulaması:** Ultrason görüntüleri üzerinde böbrek kusurlarını sınıflandıran ve tespit eden, YOLOv8 ve Gradio arayüzü ile geliştirilmiş teşhis destek aracı.
+* **🍲 Türk Yemekleri Kalori Tahmin Sistemi:** 102 sınıflı YOLOv8 modeli ve TÜRKOMP veri tabanı entegrasyonu ile yemek fotoğraflarından otomatik kalori ve besin değeri hesaplayan uçtan uca uygulama.
+* **🤖 Otonom Yapay Zeka Destek Ajanları (n8n & LLM):** Çoklu ajan (multi-agent) mimarisi, Llama 3.3 ve Redis bellek yönetimi kullanılarak kurgulanan müşteri destek ve seyahat asistanı iş akışları.
 
 ---
 
